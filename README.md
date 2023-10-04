@@ -37,3 +37,30 @@ Virtualization
 | Amazon  |            | AWS              |
 | Google  |            | Google cloud     |
 
+### Difference between virtualization & cloud
+
+Virtualization is technology.   
+Cloud is a remote location utilizing virtualization technology.
+
+```Virtualization```   
+1. Data canter
+3. hardware
+4. operating systems
+5. provide on-going support
+6. manage apps (runs apps/support)
+
+```cloud technology```   
+Remote   
+1. datacenter
+2. hardware
+3. operating system
+4. provide on-going support
+5. does not manage apps
+
+----------------
+
+## products of vmware
+
+VMware workstation player   
+vSphere hypervisor esxi   
+vsphere client
