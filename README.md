@@ -23,5 +23,17 @@ Virtualization
 ```snapshot```   restore point.
 ```clone or cloning``` replica of VM
 
-### Benefits of Virtualization
+### Virtualization Companies
+
+| Company | Hypervisor | Cloud Technology |   
+| ------- | ---------- | ---------------- |
+| VMware  | ESXi       | vCloud           |
+|  VM player |
+| Oracle  | OVM or OLVM | OCI             |
+|  Virtualbox |
+| Microsoft | Hyper-V  | Azure            |
+| Citrix  | Xen server | Citrix cloud svr |
+| Redhat  | KVM        | Redhat cloud suite |
+| Amazon  |            | AWS              |
+| Google  |            | Google cloud     |
 
